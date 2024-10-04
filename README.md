@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ruhifathima
-- 👀 I’m interested in web development and android development
-- 🌱 I’m currently learning Kotlin, HTML, CSS, React
+- 👀 I’m interested in machine learning and data analysis. 
+- 🌱 I’m currently learning web development(HTML, CSS and JS)
+- Current Project: expense tracker and splitter 
 
 <!---
 Ruhifathima/Ruhifathima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
